@@ -2,6 +2,7 @@ note.txt
 .vscode
 .ccls
 .clang-format
+build
 
 # Temporary files
 *.000

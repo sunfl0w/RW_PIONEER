@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RW_M4HexD-rescue")(type "Legacy")(uri "${KIPRJMOD}/RW_M4HexD-rescue.lib")(options "")(descr ""))
+  (lib (name "HEX-Module-rescue")(type "KiCad")(uri "${KIPRJMOD}/HEX-Module-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "HEX-LIB")(type "KiCad")(uri "${KIPRJMOD}/HEX-LIB.kicad_sym")(options "")(descr ""))
+)

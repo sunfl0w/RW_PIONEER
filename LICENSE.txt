@@ -1,0 +1,7 @@
+RW-Pioneer (c) by Luca Anthony Schwarz
+
+
+RW-Pioneer is licensed under a BSD 3-Clause License.
+
+You should have received a copy of the license along with this
+work. If not, see <https://opensource.org/license/bsd-3-clause/>.

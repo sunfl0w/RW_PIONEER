@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RW_PIONEER-rescue")(type "KiCad")(uri "${KIPRJMOD}/RW_PIONEER-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "RW_Pioneer_LIB")(type "KiCad")(uri "${KIPRJMOD}/RW_Pioneer_LIB.kicad_sym")(options "")(descr ""))
+)

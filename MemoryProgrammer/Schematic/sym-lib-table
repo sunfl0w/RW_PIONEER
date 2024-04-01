@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MemoryProgrammer-rescue")(type "KiCad")(uri "${KIPRJMOD}/MemoryProgrammer-rescue.kicad_sym")(options "")(descr ""))
+)
