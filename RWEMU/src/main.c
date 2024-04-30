@@ -121,7 +121,7 @@ int main(int argc, char* argv[]) {
     program[70] = LDI << 4 | 1; //LDI 1
     program[71] = BNEZ << 4 | 2; //BNEZ 2
     program[72] = LDI << 4 | 1; //LDI 1
-    program[73] = SUBC << 4 | 11; //SUB 11
+    program[73] = SUBC << 4 | 11; //SUBC 11
     program[74] = LDI << 4 | 1; //LDI 1
     program[75] = BNEZ << 4 | 2; //BNEZ 2
 
@@ -392,6 +392,7 @@ int main(int argc, char* argv[]) {
     int output = (int)ram[12] << 12 | (int)ram[13] << 8 | (int)ram[14] << 4 | (int)ram[15];
     printf("%X\n", output);
 
-    FILE* file = fopen("PROGRAM.bin", "wb");
-    fwrite(program, sizeof(program), 1, file); 
+    //FILE* file = fopen("PROGRAM.bin", "wb");
+    //fwrite(program, sizeof(program), 1, file);
+    //fclose(file);
 }
